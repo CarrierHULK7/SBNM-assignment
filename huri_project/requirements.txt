@@ -1,0 +1,7 @@
+igraph>=0.11
+numpy
+pandas
+scipy
+matplotlib
+requests
+jupyter

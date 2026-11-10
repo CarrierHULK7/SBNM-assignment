@@ -1,0 +1,6 @@
+,HuRI subsampled (mean),HuRI subsampled (sd),Lit-BM
+nodes,5255.8,41.1145,5956.0
+mean_degree,4.8551,0.038,4.2841
+degree1_pct,38.3341,0.4907,40.413
+lcc_fraction,0.9455,0.0059,0.9372
+global_clustering,0.0139,0.0007,0.02

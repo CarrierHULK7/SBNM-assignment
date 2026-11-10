@@ -1,0 +1,11 @@
+name: huri-topology
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - python-igraph
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - requests
+  - jupyter
